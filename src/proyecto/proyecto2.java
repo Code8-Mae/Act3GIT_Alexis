@@ -1,6 +1,5 @@
 package proyecto;
 
-
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
@@ -42,5 +41,6 @@ public class proyecto2 {
         }
         
         System.out.println("\n\nTotal de números mostrados: " + contador);
+        System.out.println("Hola");
     }
     }
